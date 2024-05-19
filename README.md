@@ -4,16 +4,9 @@ Internet, for all or none!
 دوستان سلام وقت همگی بخیر
 امروز میخوام پروژه oblivion بهتون معرفی کنم
 این پروژه دسترسی شما به اینترنت ایمن و بهینه را از طریق یک برنامه اندروید و ویندوز، با استفاده از فناوری cloudflare warp فراهم می کنه.
+
+توجه:
 در این نوع اتصال آیپی شما تغییری نمیکنه و با همون آیپی ایران ، همه چیز براتون باز میشه.
-
-دانلود نسخه اندرویدی از گوگل پلی:
-<a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion">
-<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
-</a>
-
-دانلود نسخه ویندوزی با لینک مستقیم:
-
-
 
 
 ### کلودفلر وارپ
@@ -30,7 +23,7 @@ Internet, for all or none!
 - **مجوز**: [GNU General Public License v2.0](https://github.com/WireGuard/wireguard-go/blob/master/COPYING)
 - **توضیحات**: وایرگارد گو پیاده سازی تونل شبکه ایمن WireGuard است. در پروژه ما برای ارائه تونل VPN سریع، مدرن و ایمن استفاده می شود.
 
-## Download
+## دانلود و نصب
 
 <div align=left>
 <table>
