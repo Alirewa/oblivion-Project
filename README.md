@@ -29,3 +29,62 @@ Internet, for all or none!
 - **پروژه گیتهاب**: [WireGuard-go on GitHub](https://github.com/WireGuard/wireguard-go)
 - **مجوز**: [GNU General Public License v2.0](https://github.com/WireGuard/wireguard-go/blob/master/COPYING)
 - **توضیحات**: وایرگارد گو پیاده سازی تونل شبکه ایمن WireGuard است. در پروژه ما برای ارائه تونل VPN سریع، مدرن و ایمن استفاده می شود.
+
+## Download
+
+<div align=left>
+<table>
+    <thead align=left>
+        <tr>
+            <th>OS</th>
+            <th>Download</th>
+            <th>Compatibility</th>
+        </tr>
+    </thead>
+    <tbody align=left>
+        <tr>
+            <td>Windows</td>
+            <td>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
+            </td>
+            <td>
+                v10 x64<br>
+                v11 x64
+            </td>
+        </tr>
+        <tr>
+            <td>macOS</td>
+            <td>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases"><img src="https://img.shields.io/badge/DMG-arm64-ea005e.svg?logo=apple"></a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases"><img src="https://img.shields.io/badge/DMG-x64-ea005e.svg?logo=apple"></a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases"><img src="https://img.shields.io/badge/PKG-arm64-bc544b.svg?logo=apple" /></a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases"><img src="https://img.shields.io/badge/PKG-x64-bc544b.svg?logo=apple" /></a><br>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Linux</td>
+            <td>                
+                <small>Coming Soon ...</small>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+        <td>Android</td>
+            <td>
+                <a href="https://github.com/bepass-org/oblivion/releases/latest"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
+<a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=googleplay"></a>
+            </td>
+            <td>v6+</td>
+        </tr>
+        <tr>
+            <td>iOS</td>
+            <td>
+                <small>Coming Soon ...</small>
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
