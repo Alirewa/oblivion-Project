@@ -9,7 +9,8 @@ Internet, for all or none❤️🙂
 ⚠️ توجه: در این نوع اتصال آیپی شما تغییری نمیکنه و با همون آیپی ایران ، همه چیز براتون باز میشه.
 
 لینک گیتهاب پروژه:
-https://github.com/bepass-org/oblivion
+https://github.com/bepass-org/oblivion/
+
 https://github.com/bepass-org/oblivion-desktop/
 
 ### کلودفلر وارپ
